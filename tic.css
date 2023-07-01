@@ -51,7 +51,7 @@ table tr th:last-child {
     font-size: 40px;
 }
 #details {
-    diplay: flex;
+    display: flex;
     flex-wrap: wrap;
 }
 #accordion {
@@ -81,7 +81,7 @@ h1 {
 .placeholder {
     clear: both;
     width: 100%;
-    heigth: 20px;
+    height: 20px;
 }
 .down-dots .fa,
 .up-dots .fa {
